@@ -1,0 +1,54 @@
+.logo-imagen {
+    max-height: 40px;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+hr {
+    color: rgba(149, 241, 255, 0.998);
+}
+
+hr:not([size]) {
+    height: 2px;
+}
+
+.p-3 {
+    background-color: rgba(70, 222, 245, 0.998)!important;
+}
+
+i {
+    color: aliceblue;
+}
+
+.card {
+    background-color: rgba(70, 222, 245, 0.998)!important;
+    border-color: aliceblue;
+}
+
+.card-img-top {
+    max-height: 180px;
+}
+
+#contacto {
+    background-color: aliceblue;
+    padding: 10rem;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+#ult {
+    background-color: rgba(70, 222, 245, 0.998)!important;
+}
